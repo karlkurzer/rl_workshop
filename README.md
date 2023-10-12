@@ -1,8 +1,6 @@
 ### Setup
 
-`poetry install`
-
-`poetry run python -m ipykernel install --user --name=rl-kernel`
+`poetry install && poetry run python -m ipykernel install --user --name=rl-kernel`
 
 ### Run
 
